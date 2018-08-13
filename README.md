@@ -4,14 +4,14 @@
 Les jeux-vidéos sont le poison, Jazztronauts en est l'antidote.
 
 
-### What is this
+### Qu'est-ce que c'est que ça ?
 Jazztronauts est un jeu de vol coopératif pour Garry's Mod, aussi connu sous le nom de prop hunt 2.
 Naviguez sur des maps workshop aléatoires, pillez ses ordures pour de l'argent et discutez avec vos superieurs.
 
 - Si vous voulez des instructions sur l'installation de façon normale, suivez ce lien pour la FAQ officielle.
 - Sinon, ce dépôt peut simplement être glissé dans votre dossier addons car il s’agit d’une installation autonome de jazztronauts.
 
-### Features
+### Fonctionnalités
 - Télécharge et monte les maps workshop dynamiquement.
 - Charge les données du fichier BSP pour des effets spécifiques, comme voler les props statiques.
 - Système de dialogue/mission dynamique
