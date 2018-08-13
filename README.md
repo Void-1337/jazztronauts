@@ -1,26 +1,26 @@
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/N4N6H7ZH)
 
 # Jazztronauts
-Videogames are the poison, Jazztronauts is the cure.
+Les jeux-vidéos sont le poison, Jazztronauts en est l'antidote.
 
 
 ### What is this
-Jazztronauts is a cooperative theft-em-up for Garry's Mod, also known as prop hunt 2.
-Go to random maps on the workshop, pillage its trash for money, and converse with your higher-dimensional cat overlords.
+Jazztronauts est un jeu de vol coopératif pour Garry's Mod, aussi connu sous le nom de prop hunt 2.
+Naviguez sur des maps workshop aléatoires, pillez ses ordures pour de l'argent et discutez avec vos superieurs.
 
-- If you want instructions on installing it the normal way, follow this link for the official FAQ.
-- Else, this repo can just be smashed into your addons folder, it is a self-contained jazztronauts installation
+- Si vous voulez des instructions sur l'installation de façon normale, suivez ce lien pour la FAQ officielle.
+- Sinon, ce dépôt peut simplement être glissé dans votre dossier addons car il s’agit d’une installation autonome de jazztronauts.
 
 ### Features
-- Dynamically download and mount workshop map addons
-- Load in BSP data for specific effects, such as stealing static props and world brushes
-- Dynamic dialog/mission system
-- Persistent player data, and newgame+ mode
-- Hammer I/O viewer gun, watch I/O events happen in real time
-- Lots of pretty pretty art
+- Télécharge et monte les maps workshop dynamiquement.
+- Charge les données du fichier BSP pour des effets spécifiques, comme voler les props statiques.
+- Système de dialogue/mission dynamique
+- Sauvegarde des données des joueurs
+- Beaucoup d'arts plutôt très sympas
 
 ### Contributions
-This repository is hooked up to build and upload directly to the [Steam Workshop addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1452613192) "whenever™". 
-Contributions are always welcome, and can be done through the normal github pull request avenue, and I'll try to update the workshop version as soon as I can after that.
+This repository is hooked up to build and upload directly to the
+Ce répertoire est destiné à être construit et upload directement sur l'[Addon du Workshop de Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1452613192) "à chaque mise à jour™". 
+Les contributions sont toujours les bienvenues, et peuvent être faites via l'avenue des "pull requests" github, et je vais essayer de mettre à jour la version workshop au plus vite après cela.
 
-### [INSTALLATION AND PLAY FAQ](https://github.com/Foohy/jazztronauts/wiki/FAQ)
+### [FAQ: INSTALLATION + DÉMARRAGE (En Anglais)](https://github.com/Foohy/jazztronauts/wiki/FAQ)
