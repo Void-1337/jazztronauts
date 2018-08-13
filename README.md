@@ -20,7 +20,7 @@ Naviguez sur des maps workshop aléatoires, pillez ses ordures pour de l'argent 
 
 ### Contributions
 This repository is hooked up to build and upload directly to the
-Ce répertoire est destiné à être construit et upload directement sur l'[Addon du Workshop de Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1452613192) "à chaque mise à jour™". 
+Ce répertoire est destiné à être construit et upload directement sur l'[Addon du Workshop de Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1452613192) à chaque mise à jour™. 
 Les contributions sont toujours les bienvenues, et peuvent être faites via l'avenue des "pull requests" github, et je vais essayer de mettre à jour la version workshop au plus vite après cela.
 
 ### [FAQ: INSTALLATION + DÉMARRAGE (En Anglais)](https://github.com/Foohy/jazztronauts/wiki/FAQ)
