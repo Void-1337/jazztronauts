@@ -8,19 +8,17 @@ begin:
     *setspeaker cat_void*
     *show 0.5*
 	*bgmplay sound/jazztronauts/blackshard_hum.wav .35 10*
-     You can’t tell me anything new.
+     Vous ne pouvez rien me dire de nouveau.
      &a1
-	
+
 a1:
-     There’s nothing new to learn.
+     Il n'y a rien de nouveau à apprendre.
      &a2
-	
+
 a2:
-     I’m tired of looking.
+     Je suis fatigué de regarder.
      &a3
-	
+
 a3:
-     I’m so tired of looking.
+     Je suis tellement fatigué de regarder.
      &exit
-	
-	

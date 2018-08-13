@@ -1,8 +1,8 @@
 ﻿
 begin:
-    Hi, I have no idle scripts%%
-    and yet I'm speaking.%%
-    Please do not call the police.
+    Bonjour, je n'ai pas de script inactif%%
+    et pourtant je parle.%%
+    S'il vous plaît n'appelez pas la police.
     &exit
 
 begin1:
@@ -26,260 +26,260 @@ begin1:
 
 bar_bark1:
     *setauto*
-    Delightful to see you, as always. Can I get you anything?%
+    Ravi de vous voir, comme toujours. Puis-je vous offrir quelque chose?%
     &exit
 
 bar_bark2:
     *setauto*
-    Oh! I didn’t see you there. Have you seen the Cellist about? 
-    I’m concerned he may be planning a heist. 
-    I store the decanted shard essence in crystal form, you see…%
+    Oh! Je ne vous ai pas vu là-bas. Avez-vous vu le violoncelliste?
+    Je crains qu'il planifie un vol.
+    Je stocke l'essence de tesson décantée sous forme de cristal, vous voyez…%
     &exit
 
 bar_bark3:
     *setauto*
-    The Pianist seems much more relaxed these days. 
-    You’ve had quite the effect on her, you know.%
+    Le pianiste semble beaucoup plus détendu ces jours-ci.
+    Vous avez eu tout l'effet sur elle, vous savez.%
     &exit
 
-bar_bark4: 
+bar_bark4:
     *setauto*
-    The Singer has been telling me about your exploits assisting them 
-    with their research. I haven’t seen them smile so much in a long time.%
+    Le chanteur m'a parlé de vos exploits les aidant
+    avec leurs recherches. Je ne les ai pas vu sourire depuis tellement longtemps.%
     &exit
 
-bar_bark5:  
+bar_bark5:
     *setauto*
-    I keep thinking about the Band. I wonder if they’d 
-    be open to a creative collaboration one day?%
+    Je continue de penser au groupe. Je me demande si ils
+    seraient ouvert à une collaboration créative un jour?%
     &exit
 
-bar_bark6: 
+bar_bark6:
     *setauto*
-    The Bar Samsara hasn’t been so alive for an age. 
-    I hope this is the start of something good, for all of us. %
+    Le bar Samsara n'a pas été aussi vivant depuis un moment.
+    J'espère que c'est le début de quelque chose de bon pour nous tous. %
     &exit
 
 piano_bark1:
 
-     Hey. Did you enjoy the festival? We don’t often bring guests 
-     along, the Band seemed pretty happy to see a new face. 
+     Hey. Avez-vous apprécié le festival? Nous n'apportons pas souvent des invités
+     le groupe semblait plutôt heureux de voir un nouveau visage.
 
 piano_bark2:
 
-     Don’t tell him I said this, but the Cellist has been less of a pain 
-     in the ass recently. Don’t know what you did, but thanks. 
+     Ne lui dites pas que j'ai dit ça, mais le violoncelliste a moins souffert
+     dans le cul récemment. Je ne sais pas ce que vous avez fait, mais merci.
 
 piano_bark3:
 
-     Pipes’s been smiling a lot more. It’s nice.
+     Les pipes souriaient beaucoup plus. C'est bien.
 
 piano_bark4:
-     Ugh. Why did I agree to help out at the Mewseum, these paws are made 
-     for carnage, not data entry.
+     Pouah. Pourquoi ai-je accepté d'aider au Mewseum, ces pattes sont faites
+     pour le carnage, pas pour la saisie de données.
 
 piano_bark5:
-     You know, the Boss likes you. She only brings out the snickerdoodles 
-     for special guests.
+     Vous savez, le patron vous aime bien. Elle ne fait que sortir les snickerdoodles
+     pour les invités spéciaux.
 
 piano_bark6:
-     Make sure you visit, yeah? Gonna miss you. 
+     Assurez-vous de visiter, oui? Tu vas me manquer.
 
 singer_bark1:
-     >You find the Singer hard at work on that bootleg plant cloning
-     program you helped them with. They've been having quite a lot of 
-     success, and they're quite proud of their latest bunch of Mr. 
-     Stripeys. They weren't kidding when they said tomato names got weird.
+     >Vous trouvez le chanteur au travail sur le clonage de cette plante
+      programme avec lequel vous les avez aidés. Ils ont eu beaucoup de
+      succès, et ils sont assez fiers de leur dernier groupe de M.
+      Stripeys. Ils ne rigolaient pas quand ils disaient que les noms de tomates étaient bizarres.
 
 singer_bark2:
-     > You get a wave when you head over, and the Singer thanks you for 
-     helping the Pianist. She’s been smiling a lot more lately, it’s nice.
+     > Vous avez un salut quand vous vous dirigez, et le chanteur vous remercie pour
+      aider le pianiste. Elle sourit beaucoup plus récemment, c'est bien.
 
 singer_bark3:
-     > You find the Singer sitting with the Cellist. They both appear 
-     to be...meditating? You sit with them both a while.
+     > Vous trouvez le chanteur assis avec le violoncelliste. Ils sont tous les deux
+      en train de méditer? Vous êtes assis avec eux un moment.
 
 singer_bark4:
-     > The Singer smiles, but seems a little sad. They confess that 
-     they’re going to miss you very much when you leave.
+     > Le chanteur sourit, mais semble un peu triste. Ils avouent que
+      ils vont beaucoup vous manquer quand vous partez.
 
 singer_bark5:
-     > The Singer brightens when you approach! You spend a while reading 
-     their report on the progress of the Mewseum's residents. 
+     > Le chanteur éclaire quand vous approchez! Vous passez un moment à lire
+      leur rapport sur les progrès des résidents du Mewseum.
 
 singer_bark6:
-     > The Singer is sat watching the Bartender with starry eyes, as 
-     the other cat plays them a sweet tune on her trumpet. You leave them
-     to it. 
+     > Le chanteur est assis à regarder le barman avec des yeux étoilés, comme
+      l'autre chat leur joue une douce mélodie sur la trompette. Vous les laissez
+      à elle.
 
 cello_bark1:
-     you know for how much people talk up pufferfish toxin i think they're
-     just cowards. i love to take bites out of them like apples and look 
-     at me, i'm the picture of health
+     vous savez pour combien de gens parlent jusqu'à la toxine pufferfish je pense qu'ils sont
+      juste des lâches. J'adore prendre des bouchées comme des pommes et regarder
+      chez moi, je suis l'image de la santé
 
 cello_bark2:
-     i really need to talk to pipes one of these days about getting more 
-     proper literature in the library. a man can only read so many prima 
-     strategy guides before he longs for some good ol' william burroughs 
-     y'know
+     J'ai vraiment besoin de parler aux pipes un de ces jours pour en savoir plus
+      littérature appropriée dans la bibliothèque. un homme ne peut lire que beaucoup de prima
+      des guides de stratégie avant qu'il aspire à de bons vieux william burroughs
+      tu sais
 
 cello_bark3:
-     one of these days i'm going to find out where the Bartender locked
-     up all the absinthe. i don't even particularly want to drink it, 
-     it doesn't even make you hallucinate a little bit, but it's a matter
-     of pride at this point
+     un de ces jours, je vais découvrir où le barman cache l'absinthe.
+     je ne veux pas particulièrement le boire,
+      cela ne vous fait même pas halluciner un peu, mais c'est une question
+      de fierté à ce stade
 
 cello_bark4:
-     you seen the Pianist lately? i realize i've been kind of a bastard
-     lately and i've been meaning to apologize but i think she's still mad
-     about the time i tried to set up a cane toad breeding program. little
-     bastards didn't even give a high worth the heart attack
+     tu as vu le pianiste dernièrement? Je me rends compte que j'ai été une sorte de bâtard
+      ces derniers temps et je voulais faire des excuses mais je pense qu'elle est toujours folle
+      à peu près le temps j'ai essayé de mettre en place un programme de reproduction de crapaud de canne.
+      petit bâtards n'ont même pas donné une haute valeur de la crise cardiaque
 
 cello_bark5:
-     people keep bitching about the fact that they don't have flying cars
-     yet. i'm over here wondering why in the hell we don't have robots 
-     that recite "there will come soft rains" as they do your household 
-     chores just to fuck with you
-     
+     les gens continuent à se plaindre du fait qu'ils n'ont pas de voitures volantes
+      encore. Je suis ici, me demandant pourquoi, en enfer, nous n'avons pas de robots
+      qui récitent "il va y avoir des pluies douces" comme ils le font chez vous
+      corvées juste pour baiser avec toi
+
 cello_bark6:
-     sometimes i wonder about that one old poet who wondered if he was a
-     butterfly dreaming about being a man or a man dreaming about being
-     a butterfly, and if i'm in that kind of situation man i want to know
-     what kind of butterfly got fucked in the head enough to think of me
+     parfois je me pose des questions sur ce vieux poète qui se demandait s'il était un
+      papillon rêvant d'être un homme ou un homme rêvant d'être
+      un papillon, et si je suis dans ce genre de situation, l'homme que je veux savoir
+      quel genre de papillon a baisé dans la tête assez pour penser à moi
 
 
 bar_truebark1:
-     Ah, always a pleasure to see you, <playername>. 
-     The Bar Samsara isn’t the same without you.
+     Ah, toujours un plaisir de te voir, <playername>.
+     Le bar Samsara n'est pas le même sans vous.
 
 bar_truebark2:
-     The Pianist and the Cellist have been getting along better than 
-     I ever dreamed, as of late. Thank you again for the role you 
-     played in their reconciliation. 
+     Le pianiste et le violoncelliste s'entendent mieux que
+      J'ai jamais rêvé, récemment. Merci encore pour le rôle que vous avez
+      joué dans leur réconciliation.
 
 bar_truebark3:
-     The Singer was telling me that you helped fix Emily Bronto. 
-     That was very kind. The world needs more people like you, 
-     *player*.
+     Le chanteur me disait que vous avez aidé à réparer Emily Bronto.
+      C'était très gentil. Le monde a besoin de plus de gens comme vous,
+     *joueur*.
 
 bar_truebark4:
-     I’ve been thinking of putting Ambrosia back on the menu one day, 
-     if the Cellist keeps up this streak of responsible consumption. 
-     Perhaps in fifty years or so.
+     J'ai pensé à remettre Ambrosia au menu un jour,
+      si le violoncelliste maintient cette série de consommation responsable.
+      Peut-être dans une cinquantaine d'années.
 
 bar_truebark5:
-     I must say, I’ll miss you dearly when your path takes you away from 
-     us. Should you visit, there will always be a seat for you at the 
-     Bar Samsara.
+     Je dois dire que tu vas me manquer quand ton chemin t'éloigne de
+      nous. Si vous visitez, il y aura toujours un siège pour vous au
+      Bar Samsara.
 
 bar_truebark6:
-     I saw the Pianist smile while helping at the Mewseum earlier. I 
-     nearly dropped a bottle in shock. 
+     J'ai vu le pianiste sourire tout en aidant au Mewseum plus tôt.
+     j'ai failli laisser tomber une bouteille sous le choc.
 
 
 ---
 
 piano_truebark1:
 
-     Good to see you. How’s life as a freelancer treating ya? 
+     Content de te voir. Comment est la vie en tant que pigiste traitant?
 
 piano_truebark2:
 
-     Between you and me, I think this ‘going legit’ thing won’t last too  
-     long. Give it a hundred years, and you’ll probably see us out on the
-     Voidway again. 
+     Entre toi et moi, je pense que ce truc qui va de soi ne durera pas trop
+      longtemps. Donnez-lui cent ans, et vous nous verrez probablement sur le
+      Voidway à nouveau.
 
 piano_truebark3:
 
-     Hey, uh, have you seen the Singer? I got the guest beds set up in 
-     the old study wing of the Mewseum like they asked. 
+     Hé, tu as vu le chanteur? J'ai eu les lits d'invités mis en place dans
+      l'ancienne aile d'étude du Mewseum, comme ils l'ont demandé.
 
 piano_truebark4:
 
-     Don’t tell him I said this, but it’s been nice hanging out with the 
-     Cellist recently. Thanks for helping him out. It’s good to have my 
-     friend back. 
+     Ne lui dites pas que j'ai dit ça, mais ça fait du bien de sortir avec le
+      Violoncelliste récemment. Merci de l'avoir aidé. C'est bon d'avoir mon
+      ami retour
 
 piano_truebark5:
 
-     I managed another improvisation yesterday. I thought it was pretty 
-     shit, but the Bartender loved it. It’s a start, right?
+     J'ai réussi une autre improvisation hier. Je pensais que c'était joli
+      merde, mais le barman l'a aimé. C'est un début, non?
 
 piano_truebark6:
 
-     What, hoping for some grand emotional gesture? Pfffft. C’mon. I will
-     miss you when you leave, though.
+     Quoi, en espérant un grand geste émotionnel? Pfffft. Aller. Tu vas
+      me manquer quand tu pars, cependant.
 
 ---
 
 singer_truebark1:
-     > The Singer is sat with the Bartender, playing Go. They both greet 
-     you fondly and you spend a while watching them play.
+     > Le chanteur est assis avec le barman, jouant à Go. Ils vous saluent tous
+      les deux affectueusement et vous passez un moment à les regarder jouer.
 
 singer_truebark2:
-     > The Singer gives you a hug. You sit together and they tell you 
-     about the help the Pianist and Cellist have been giving them at the
-     Mewseum. They're very proud of both of them.
+     > Le chanteur vous fait un câlin. Vous êtes assis ensemble et ils vous parlent
+      de l'aide que le pianiste et le violoncelliste leur ont donné au
+      Mewseum. Ils sont très fiers d'eux.
 
 singer_truebark3:
-     > The Singer looks sad. They’ve been trying not to think about the 
-     fact you’ll be leaving soon. But they thank you earnestly for the 
-     happiness you’ve gifted them during your stay.
+     > Le chanteur a l'air triste. Ils ont essayé de ne pas penser au
+      fait que vous partirez bientôt. Mais ils vous remercient sincèrement pour le
+      le bonheur que vous leur avez offert pendant votre séjour.
 
 singer_truebark4:
-     > You see the Singer in the middle of a lesson plan in the Mewseum,
-     reading to a gaggle of Combine soldiers. You smile at how hard they
-     have to choke back tears of joy when one raises a hand to ask
-     them a question.
+     > Vous voyez le chanteur au milieu d'un cours au Mewseum,
+      lecture à un groupe de soldats Combine. Vous souriez à quel point ils
+      devoir étouffer les larmes de joie quand on lève la main pour poser
+      demander une question.
 
 singer_truebark5:
-     > The Singer waves! They show you the blueprints for a Mewseum 
-     expansion. Apparently the Bar Samsara will also be expanding into 
-     a hotel soon.
+     > Le chanteur vous fait signe! Ils vous montrent les plans d'un Mewseum
+      expansion. Apparemment, le bar Samsara se développera également dans
+      un hôtel bientôt.
 
 singer_truebark6:
-     > The Singer is taking a nap with Emily Bronto, who looks downright 
-     fearsome with her new battle scars.
+     > Le chanteur fait la sieste avec Emily Bronto, qui a l'air carrément
+      redoutable avec ses nouvelles cicatrices de combat.
 ---
 
 cello_truebark1:
 
-     welcome back my friends to the show that never ends 
-     we’re so glad you could attend 
-     and so on and so forth. 
-     naw for real though it’s always good to see you
+     bienvenue mes amis à l'émission qui ne se termine jamais
+      nous sommes si heureux que vous ayez pu assister
+      et ainsi de suite.
+      naw pour de vrai mais il est toujours bon de te voir
 
 cello_truebark2:
 
-     listen i’m still not used to expressing most of my emotions without 
-     fifteen different layers of irony and/or hallucinogens in the way, 
-     but...thanks for not giving up on me when i lost my grip. i don’t 
-     think i’ll ever figure out the words that say what that meant to me.
+     écoutez je ne suis toujours pas habitué à exprimer la plupart de mes émotions sans
+      quinze couches différentes d'ironie et / ou hallucinogènes dans la voie,
+      mais ... merci de ne pas m'abandonner quand j'ai perdu ma prise. Je ne
+      pense que je trouverai jamais les mots qui disent ce que cela signifiait pour moi.
 
 cello_truebark3:
 
-     it’s been so long since the Pianist smiled this much that i forgot 
-     how nice one looked on her. you did good by her, kid.
+     ça fait si longtemps que le pianiste a souri autant que j'ai oublié
+      comme elle était belle avec elle. tu as bien fait par elle, gamin.
 
 cello_truebark4:
 
-     hey. between you and me? thanks for being such a good friend to 
-     pipes. they’ve always had issues making friends that weren’t robots 
-     cause they’re wired a little different than most but you made them 
-     feel as comfortable as we do. that ain’t common.
+     Hey. entre vous et moi? merci d'être un si bon ami à
+      des pipes ils ont toujours eu des problèmes à faire des amis qui n'étaient pas des robots
+      parce qu'ils sont câblés un peu différent de la plupart mais vous les avez faits
+      se sentir aussi à l'aise que nous le faisons. ce n'est pas commun.
 
 cello_truebark5:
 
-     the Bartender’s holding me to that promise I made about cutting back
-     and let me tell you it’s an odd hour that goes by when i don’t want 
-     to go back in time and punch myself for agreeing to that. i’m 
-     noticing improvements in my health, though. begrudgingly.
+     le barman me tient à cette promesse que j'ai faite à propos de la réduction
+      et laissez-moi vous dire que c'est une heure étrange qui passe quand je ne veux pas
+      revenir en arrière et me cogner pour avoir accepté cela. j'ai noté des
+      améliorations dans ma santé, cependant. à contrecœur.
 
 cello_truebark6:
 
-     can I ask you a favor? if you see a metrocop with a little cat 
-     emblem pin out there in the Void, tell them the Cellist says 
-     hello...and that he’s sorry.
+     puis-je vous demander une faveur? si vous voyez un metrocop avec un petit chat
+      emblème épinglent là-bas dans le vide, leur dire le violoncelliste dit
+      bonjour ... et qu'il est désolé.
 
 
 
@@ -293,9 +293,9 @@ itsthattime:
     *setrate 0.40*
     *bgmplay sound/jazztronauts/music/events/its_that_time.mp3*
     %%%
-    woah you're never gonna believe what time it is% man%%%
-    oh god%%
-    it's *c 0 155 0*4\:20*c* man%%%
+    woah tu ne croira jamais quelle heure il est% mec%%%
+    Oh mon Dieu%%
+    c'est *c 0 155 0*4\:20*c* mec%%%
     ho   ho   ho %% aughhhhh
     &itsthattime2
 itsthattime2:
@@ -303,14 +303,14 @@ itsthattime2:
     *setrate 0.40*
     AUUUUUUUUGGGHHHHGGGGHHHHHHHHHHHHHHHHHHH%%
     YEHHHHHHHHGGGGHHHHHHH%
-    IT'S *c 0 155 0*4\:20*c* MAN %%
+    C'EST *c 0 155 0*4\:20*c* MEC %%
     HO HO %% HOOOOO%
     &itsthattime3
 itsthattime3:
     *setauto 0*
     *setrate 0.40*
     HOOOOOO%%
-    HEY MOM GUESS WHAT IT'S *c 0 155 0*4\:20*c*%
+    HEY MAMAN DEVINE CE QUE C'EST *c 0 155 0*4\:20*c*%
     HAHAAH HAA%%
     HA % HAAAAAAA
     &itsthattime4
@@ -325,19 +325,19 @@ itsthattime4:
 
 
 begin12:
-    Hey it's been a while how've y*emitsound ambient/materials/door_hit1.wav*-
-    *slam [CRASH THROUGH DOOR]**shake 0.25*
+    Hey ça fait un moment comment t*emitsound ambient/materials/door_hit1.wav*-
+    *slam [CRASH PAR LA PORTE]**shake 0.25*
     *setskin focus 3* *emitsound npc/metropolice/gear1.wav*%*emitsound npc/metropolice/gear2.wav*%
-    *slam FUCK.* *emitsound npc/metropolice/gear3.wav*% BAIL.
+    *slam MERDE.* *emitsound npc/metropolice/gear3.wav*% BAIL.
     *emitsound npc/metropolice/takedown.wav*"ＴＡＫＥ ＨＩＭ ＤＯＷＮ" *punch**emitsound npc/vort/foot_hit.wav**fadeblind**dsp 37*
     *setskin focus 0*
     &exit
 
 begin4:
-    thanks for doing my grocery shopping
+    merci de faire mes courses
     &exit
 
 begin32:
-    WOW!!!!! it's*c 255 0 0* fucking nothing *c*
-    *c 50* go fuck yourself
+    WOW!!!!! C'est*c 255 0 0* rien bordel *c*
+    *c 50* va te faire foutre
     &exit

@@ -9,22 +9,21 @@ begin:
     *setspeaker cat_void*
     *show 0.5*
 	*bgmplay sound/jazztronauts/blackshard_hum.wav .45 10*
-     I’ve seen everything. 
+     J'ai tout vu.
      &a1
-	
+
 a1:
-     I’ve done,%% everything. 
+     J'ai%% tout fait.
      &a2
-	
+
 a2:
-     I made.
+     J'ai fait.
      &a3
-	
+
 a3:
-     Everything.
+     Tout.
      &a4
-	
+
 a4:
-     None of it mattered.
+     Rien de tout cela importait.
      &exit
-	

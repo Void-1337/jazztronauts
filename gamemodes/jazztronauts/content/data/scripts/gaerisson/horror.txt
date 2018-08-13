@@ -6,108 +6,108 @@ HIDE_MOUSE = true
 ADVANCE_KEYS = IN_USE, MOUSE_LEFT
 
 doorinspectlocked1:
-    It's locked.
-    
+    C'est verrouillé.
+
     &exit
 
 doorinspectlocked2:
-    The door doesn't budge when the handle is rattled.
+    La porte ne bouge pas lorsque la poignée est secouée.
 
     &exit
 
 doorinspectlocked3:
-    It's locked. It's locked. It's locked.
-    
+    C'est verrouillé. C'est verrouillé. C'est verrouillé.
+
     &exit
 
 doorinspectlocked4:
-    You're not listening.
-    
+    Vous n'écoutez pas
+
     &exit
 
 doorinspectlockedquestionable:
-    It's %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%locked?
-    
+    C'est %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%. %%%%%%%%%%%%%%%%%%%%%%%fermé?
+
     &exit
 
 oven1:
-    Don't really feel like cooking right now.
-    
+    Vous n'avez pas vraiment envie de cuisiner maintenant.
+
     &exit
 
 ovenb:
-    The oven is crusted shut with carbon and a thick slime.
-    
+    Le four est encroûté avec du carbone et une vase épaisse.
+
     &exit
 
 ovenc:
-    The handle crumbles beneath curious hands, which crumble in turn. 
-    
+    La poignée s'écroule sous des mains curieuses, qui s'effondrent à leur tour.
+
     &ovenc2
 
 ovenc2:
-    Pieced back together, glued with muck.
-    
+    Recomposé ensemble, collé avec de la boue.
+
     &exit
 
 
 
 bedroomentry:
-    You don't recall entering the bedroom door.
-    
+    Vous ne vous rappelez pas d'entrer dans la porte de la chambre.
+
     &exit
 
 
 mattress1:
-    There's no way I'm touching that without gloves on.
-    
+    Il n'y a aucun moyen que je touche ça sans gants.
+
     &exit
 
 mattress2:
-    Beneath the sheet, small lumps shiver.
+    Sous la feuille, de petits morceaux frissonnent.
     &mattress2b
 mattress2b:
-    A crawling beneath the fingernails.
+    Un ramper sous les ongles.
     &exit
 
 mattress3:
-    Heavy eyes and lungs that ache for the mold that will be your pillow.
+    Les yeux et les poumons lourds qui font mal pour la moisissure qui sera votre oreiller.
     &exit
 
 
 bathroomdoor1a:
 
-It's locked. 
+C'est fermé.
 
 &bathroomdoor1b
 
 bathroomdoor1b:
 
-The air is soupy and acrid, reeking of ammonia and vinegar.
+L'air est bouillant et acide, riant d'ammoniaque et de vinaigre.
 
 &exit
 
 bathroomdoor2a:
 
-The door is locked and the air is oppressive.
+La porte est fermée et l'air est oppressant.
 
 &bathroomdoor2b
 
 bathroomdoor2b:
 
-Cigarette ash and bleach coat the tongue.
+De la cendre de cigarette et de l'eau de javel recouvrent la langue.
 
 &exit
 
 bathroomdoor3a:
 
-It's locked. Liquid leaks from beneath the door, the sucking cough of backed up plumbing a putrid bark in the stillness.
+C'est fermé. Le liquide coule sous la porte, la toux suceuse de la queue se plie dans une immobilité putride.
 
 &bathroomdoor3b
 
 bathroomdoor3b:
 
-Liquid leaks from beneath the door, the sucking cough of backed up plumbing a putrid bark in the stillness.
+Le liquide coule sous la porte, la toux suceuse de la queue se plie dans une immobilité putride.
 
 &exit
 
@@ -115,34 +115,34 @@ Liquid leaks from beneath the door, the sucking cough of backed up plumbing a pu
 
 painting1a:
 
-    
+
 
     &exit
 
 painting1b:
 
-    
+
 
     &exit
 
 painting1c:
 
-    
+
 
     &exit
 
 painting2a:
-    You see two lonely figures in a ramshackle boat drifting beneath the setting sun.
+    Vous voyez deux personnages solitaires dans un bateau délabré dérivant sous le soleil couchant.
 
     &exit
 
 painting2b:
-    The sun rises. It cuts a gash through the cool waters, narrowly missing the lonely boat. 
+    Le soleil se lève. Il coupe une entaille dans les eaux fraîches, manquant de peu le bateau solitaire.
 
     &exit
 
 painting2c:
-    An eye peers from behind the cloud bank, malevolent and sour.
+    Un œil regarde derrière la banque de nuages, malveillant et aigre.
 
     &exit
 
@@ -156,40 +156,40 @@ painting3b:
 
 painting3c:
 
-    &exit    
+    &exit
 
 closetinspect1:
-    Just an ordinary closet. Something is preventing it from being opened. . .
+    Juste un placard ordinaire. Quelque chose l'empêche de s'ouvrir. . .
 
     &exit
 
 closetinspectb1:
-    There are tattered shirts, poorly darned pants. 
+    Il y a des chemises en lambeaux, des pantalons mal coupés.
 
     &closetinspectb2
 
 closetinspectb2:
-    Unwashed and musty. 
+    Non lavé et moisi.
 
     &exit
 
 closetinspectc1:
-    Cloth that disintegrates beneath shaking fingers.
+    Tissu qui se désintègre sous les doigts tremblants.
 
     &closetinspectc2
 
 closetinspectc2:
-    Throat seizing as the motes of a shattered life are inhaled.
+    La gorge se saisit lorsque les motifs d'une vie brisée sont inhalés.
 
     &exit
 
 closetinspectafter1:
-    Maybe it's best to leave this alone, after all.
+    Peut-être est-il préférable de laisser cela tranquille, après tout.
 
     &exit
 
 youshouldntbehere:
-    
-    You shouldn't be here.
+
+    Vous ne devriez pas être ici.
 
 &exit

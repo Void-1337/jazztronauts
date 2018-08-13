@@ -10,25 +10,23 @@ begin:
 	*setposang cat_void setpos -196.625259 349.245422 0;setang -90 86.137917 0.000000*
 	*setnpcid cat_void npc_cat_void*
 	*bgmplay sound/jazztronauts/blackshard_hum.wav .2 10*
-     Hello,%% *player*.
+     Bonjour,%% *player*.
      &a1
-	
+
 a1:
-     It’s quiet here.
+     C'est calme ici.
      &a2
-	
+
 a2:
-     I used to wonder why people came here.%%%% 
-     What they wanted.%%%%% 
-     Why they touched the shards of myself I left behind.
+     Je me demandais pourquoi les gens venaient ici.%%%%
+     Ce qu'ils voulaient.%%%%%
+     Pourquoi ils ont touché les éclats de moi que j'ai laissés derrière moi.
      &a3
-	
+
 a3:
-     So I asked.
+     Alors j'ai demandé.
      &a4
 
 a4:
-     The answers didn’t matter. 
+     Les réponses n'avaient pas d'importance. 
      &exit
-	
-	

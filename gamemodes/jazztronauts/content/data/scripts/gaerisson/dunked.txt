@@ -15,28 +15,28 @@
 CHARACTER = Cellist
 
 begin:
-	Actually, what are you doing here?
+	En fait, qu'est ce que tu fais ici ?
 
-	This is a secure facility!
+	Ceci est une installation sécurisée!
 	player:
 	&response1:
-		Fuck you
-		I do what I want!
+		Va te faire foutre
+		Je fais ce que je veux!
 	&response2:
-		Dunno, check your bank account
-		you may be surprised.
+		Ne vérifiez pas votre compte bancaire
+		vous pourriez être surpris.
 
 intro:
-	Hi there!
+	Salut!
 	&response2
 
 response1:
-	Ampersand AMPERSAND \&\&\& YOU'LL NEVER UNDERSTAND THE AMPERSAND!
-	Percent PERCENT \%\%\% OH HOW I ENJOY THE SCENT!
+	Ampersand AMPERSAND \&\&\& VOUS NE COMPRENDREZ JAMAIS L'AMPERSAND!
+	Percent PERCENT \%\%\% OH COMMENT JE PROFITE DU SCENT!
 	&other.fuck
 
 response2:
-	I'll go%.%.%.% check my \*bank account\* now.
+	Je vais aller%.%.%.% vérifier mes \*bank account\* maintenant.
 	*shake*
-	As you were.
+	Comme tu étais.
 	&exit
